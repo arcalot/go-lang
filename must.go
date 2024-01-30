@@ -1,3 +1,4 @@
+// Package lang provides Must* function implementations.
 package lang
 
 // Must provides error-to-panic conversion on return values.

@@ -1,4 +1,3 @@
 module go.arcalot.io/lang
 
-go 1.18
-
+go 1.21
