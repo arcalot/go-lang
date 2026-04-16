@@ -14,7 +14,7 @@ func (m myCustomErrorType) Error() string {
 	return "My custom error"
 }
 
-var errMyOtherError = fmt.Errorf("Some custom error")
+var errMyOtherError = fmt.Errorf("some custom error")
 
 func Example() {
 	try.Catch(
